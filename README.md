@@ -1,2 +1,9 @@
 # snake-cli
-Игра змейка в CLI
+CLI Snake Game
+
+## Dependencies:
+keyboard
+
+## Control
+Snake Control: arrow keys  
+Exit: Ctrl+C
