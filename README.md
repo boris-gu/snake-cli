@@ -1,6 +1,8 @@
 # snake-cli
 CLI Snake Game
 
+![rqt_image_view](/img/screen.png)
+
 ## Dependencies:
 keyboard
 
